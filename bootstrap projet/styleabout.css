@@ -1,0 +1,17 @@
+body{
+
+}
+.carousel-slide{
+    width: 1000px;
+    height: 250px;
+}
+.carousel-caption h2{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 100px;
+    font-size:40px;
+    text-shadow: 5px 5px 5px rgb(243, 243, 243,0.7);
+    color:white ;
+    border-bottom: white 1px solid;
+
+}
+
